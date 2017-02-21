@@ -95,5 +95,11 @@ namespace Mid_Term__Assignment
             else
                 AbilityForm.setSTR(3);
         }
+
+        // if the user closed the form not through the exit button
+        private void RaceForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

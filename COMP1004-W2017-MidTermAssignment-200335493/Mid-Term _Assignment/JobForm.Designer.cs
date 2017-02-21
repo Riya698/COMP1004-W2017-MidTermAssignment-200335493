@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.job_groupBox = new System.Windows.Forms.GroupBox();
-            this.soldier_radioButton = new System.Windows.Forms.RadioButton();
-            this.rogue_radioButton = new System.Windows.Forms.RadioButton();
-            this.magicker_radioButton = new System.Windows.Forms.RadioButton();
             this.cultist_radioButton = new System.Windows.Forms.RadioButton();
+            this.magicker_radioButton = new System.Windows.Forms.RadioButton();
+            this.rogue_radioButton = new System.Windows.Forms.RadioButton();
+            this.soldier_radioButton = new System.Windows.Forms.RadioButton();
             this.health_label = new System.Windows.Forms.Label();
             this.next_button = new System.Windows.Forms.Button();
             this.job_groupBox.SuspendLayout();
@@ -51,29 +51,17 @@
             this.job_groupBox.TabStop = false;
             this.job_groupBox.Text = "Job";
             // 
-            // soldier_radioButton
+            // cultist_radioButton
             // 
-            this.soldier_radioButton.AutoSize = true;
-            this.soldier_radioButton.Location = new System.Drawing.Point(21, 34);
-            this.soldier_radioButton.Name = "soldier_radioButton";
-            this.soldier_radioButton.Size = new System.Drawing.Size(83, 24);
-            this.soldier_radioButton.TabIndex = 0;
-            this.soldier_radioButton.TabStop = true;
-            this.soldier_radioButton.Text = "Soldier";
-            this.soldier_radioButton.UseVisualStyleBackColor = true;
-            this.soldier_radioButton.CheckedChanged += new System.EventHandler(this.soldier_radioButton_CheckedChanged);
-            // 
-            // rogue_radioButton
-            // 
-            this.rogue_radioButton.AutoSize = true;
-            this.rogue_radioButton.Location = new System.Drawing.Point(21, 68);
-            this.rogue_radioButton.Name = "rogue_radioButton";
-            this.rogue_radioButton.Size = new System.Drawing.Size(82, 24);
-            this.rogue_radioButton.TabIndex = 1;
-            this.rogue_radioButton.TabStop = true;
-            this.rogue_radioButton.Text = "Rogue";
-            this.rogue_radioButton.UseVisualStyleBackColor = true;
-            this.rogue_radioButton.CheckedChanged += new System.EventHandler(this.rogue_radioButton_CheckedChanged);
+            this.cultist_radioButton.AutoSize = true;
+            this.cultist_radioButton.Location = new System.Drawing.Point(21, 136);
+            this.cultist_radioButton.Name = "cultist_radioButton";
+            this.cultist_radioButton.Size = new System.Drawing.Size(78, 24);
+            this.cultist_radioButton.TabIndex = 3;
+            this.cultist_radioButton.TabStop = true;
+            this.cultist_radioButton.Text = "Cultist";
+            this.cultist_radioButton.UseVisualStyleBackColor = true;
+            this.cultist_radioButton.CheckedChanged += new System.EventHandler(this.cultist_radioButton_CheckedChanged);
             // 
             // magicker_radioButton
             // 
@@ -87,17 +75,29 @@
             this.magicker_radioButton.UseVisualStyleBackColor = true;
             this.magicker_radioButton.CheckedChanged += new System.EventHandler(this.magicker_radioButton_CheckedChanged);
             // 
-            // cultist_radioButton
+            // rogue_radioButton
             // 
-            this.cultist_radioButton.AutoSize = true;
-            this.cultist_radioButton.Location = new System.Drawing.Point(21, 136);
-            this.cultist_radioButton.Name = "cultist_radioButton";
-            this.cultist_radioButton.Size = new System.Drawing.Size(78, 24);
-            this.cultist_radioButton.TabIndex = 3;
-            this.cultist_radioButton.TabStop = true;
-            this.cultist_radioButton.Text = "Cultist";
-            this.cultist_radioButton.UseVisualStyleBackColor = true;
-            this.cultist_radioButton.CheckedChanged += new System.EventHandler(this.cultist_radioButton_CheckedChanged);
+            this.rogue_radioButton.AutoSize = true;
+            this.rogue_radioButton.Location = new System.Drawing.Point(21, 68);
+            this.rogue_radioButton.Name = "rogue_radioButton";
+            this.rogue_radioButton.Size = new System.Drawing.Size(82, 24);
+            this.rogue_radioButton.TabIndex = 1;
+            this.rogue_radioButton.TabStop = true;
+            this.rogue_radioButton.Text = "Rogue";
+            this.rogue_radioButton.UseVisualStyleBackColor = true;
+            this.rogue_radioButton.CheckedChanged += new System.EventHandler(this.rogue_radioButton_CheckedChanged);
+            // 
+            // soldier_radioButton
+            // 
+            this.soldier_radioButton.AutoSize = true;
+            this.soldier_radioButton.Location = new System.Drawing.Point(21, 34);
+            this.soldier_radioButton.Name = "soldier_radioButton";
+            this.soldier_radioButton.Size = new System.Drawing.Size(83, 24);
+            this.soldier_radioButton.TabIndex = 0;
+            this.soldier_radioButton.TabStop = true;
+            this.soldier_radioButton.Text = "Soldier";
+            this.soldier_radioButton.UseVisualStyleBackColor = true;
+            this.soldier_radioButton.CheckedChanged += new System.EventHandler(this.soldier_radioButton_CheckedChanged);
             // 
             // health_label
             // 
@@ -135,6 +135,7 @@
             this.Name = "JobForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Job Form";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.JobForm_FormClosed);
             this.job_groupBox.ResumeLayout(false);
             this.job_groupBox.PerformLayout();
             this.ResumeLayout(false);

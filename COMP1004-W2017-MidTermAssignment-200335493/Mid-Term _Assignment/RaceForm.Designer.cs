@@ -146,6 +146,7 @@
             this.Name = "RaceForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Race Form";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.RaceForm_FormClosed);
             this.race_groupBox.ResumeLayout(false);
             this.race_groupBox.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.race_pictureBox)).EndInit();

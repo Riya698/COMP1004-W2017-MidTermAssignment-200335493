@@ -82,5 +82,11 @@ namespace Mid_Term__Assignment
             ff.Show();
             Hide();
         }
+
+        // if the user closed the form not through the exit button
+        private void JobForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

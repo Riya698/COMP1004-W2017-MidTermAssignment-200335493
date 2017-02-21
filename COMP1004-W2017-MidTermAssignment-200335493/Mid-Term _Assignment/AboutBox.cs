@@ -14,12 +14,10 @@ namespace Mid_Term__Assignment
         public AboutBox()
         {
             InitializeComponent();
-            this.Text = String.Format("About {0}", AssemblyTitle);
-            this.labelProductName.Text = AssemblyProduct;
-            this.labelVersion.Text = String.Format("Version {0}", AssemblyVersion);
-            this.labelCopyright.Text = AssemblyCopyright;
-            this.labelCompanyName.Text = AssemblyCompany;
-            this.textBoxDescription.Text = AssemblyDescription;
+            Text = String.Format("About {0}", AssemblyTitle);
+            fullName_label.Text += " Riya Patel";
+            studentID_label.Text += " 200335493";
+            textBoxDescription.Text = "This is the mid term assignment, Created by Riya Patel. Student ID: 200335493";
         }
 
         #region Assembly Attribute Accessors

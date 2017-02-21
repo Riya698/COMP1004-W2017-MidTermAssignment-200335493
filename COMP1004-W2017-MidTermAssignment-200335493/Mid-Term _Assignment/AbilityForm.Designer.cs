@@ -225,6 +225,7 @@
             this.Name = "AbilityForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ability Form";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.AbilityForm_FormClosed);
             this.Abilities_groupBox.ResumeLayout(false);
             this.Abilities_groupBox.PerformLayout();
             this.ResumeLayout(false);

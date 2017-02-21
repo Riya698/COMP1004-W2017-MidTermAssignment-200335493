@@ -103,6 +103,12 @@ namespace Mid_Term__Assignment
             return _dex;
         }
 
+        // if the user closed the form not through the exit button
+        private void AbilityForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
         // return the END ability value
         public static int getEND()
         {

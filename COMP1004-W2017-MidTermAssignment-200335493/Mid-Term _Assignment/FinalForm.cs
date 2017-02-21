@@ -9,15 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Mid_Term__Assignment
-
-/// <summary>
-/// Program: Character Creator
-/// Name: Riya Patel
-/// StudentID: 200335493
-/// App Creation Date: Feb 21, 2017
-/// App Desc: A project to create character used for RPG adventures
-/// </summary>
-/// 
 {
     public partial class FinalForm : Form
     {
@@ -99,6 +90,12 @@ namespace Mid_Term__Assignment
             {
                 e.Handled = true;
             }
+        }
+
+        // if the user closed the form not through the exit button
+        public void FinalForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
