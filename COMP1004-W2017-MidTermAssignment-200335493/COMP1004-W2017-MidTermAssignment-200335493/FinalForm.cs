@@ -8,7 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// Mid Term Assignment- Character Generator	
+// Made by Riya Patel
+// Student # 200335493
+// Created on February 21st 2017	
+// a project that generates	the	first few pages of an RPG character
+
 namespace Mid_Term__Assignment
+
 {
     public partial class FinalForm : Form
     {
