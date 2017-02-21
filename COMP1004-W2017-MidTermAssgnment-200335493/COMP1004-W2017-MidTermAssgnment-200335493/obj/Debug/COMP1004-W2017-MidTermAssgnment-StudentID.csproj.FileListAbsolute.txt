@@ -1,2 +1,0 @@
-C:\Users\Tom\Documents\COMP1004\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe.config
-C:\Users\user\RAD\COMP1004-W2017-MidTermAssgnment-StudentID (1)\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe.config

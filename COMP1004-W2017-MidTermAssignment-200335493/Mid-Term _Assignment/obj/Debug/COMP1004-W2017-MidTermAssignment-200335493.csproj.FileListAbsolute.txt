@@ -1,0 +1,17 @@
+C:\Users\Yoni\Documents\Visual Studio 2015\Projects\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\bin\Debug\Mid-Term _Assignment.exe.config
+C:\Users\Yoni\Documents\Visual Studio 2015\Projects\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid-Term _Assignment.exe
+C:\Users\Yoni\Documents\Visual Studio 2015\Projects\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid-Term _Assignment.pdb
+C:\Users\Yoni\Documents\Visual Studio 2015\Projects\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\bin\Debug\COMP1004-W2017-MidTermAssignment-200335493.exe.config
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\bin\Debug\Mid-Term _Assignment.exe.config
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid-Term _Assignment.exe
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid-Term _Assignment.pdb
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\bin\Debug\Mid-Term _Assignment.exe
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\bin\Debug\Mid-Term _Assignment.pdb
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\COMP1004-W2017-MidTermAssignment-200335493.csprojResolveAssemblyReference.cache
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid_Term__Assignment.AbilityForm.resources
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid_Term__Assignment.AboutBox.resources
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid_Term__Assignment.FinalForm.resources
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid_Term__Assignment.JobForm.resources
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid_Term__Assignment.Properties.Resources.resources
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\Mid_Term__Assignment.RaceForm.resources
+C:\Users\user\RAD\COMP1004W2017MidTermAssignment200335493\COMP1004-W2017-MidTermAssignment-200335493\Mid-Term _Assignment\obj\Debug\COMP1004-W2017-MidTermAssignment-200335493.csproj.GenerateResource.Cache
